@@ -4,4 +4,4 @@ s = 10+20
 print(s)
 
 sub = 20-20
-print(s)
+print(sub)
